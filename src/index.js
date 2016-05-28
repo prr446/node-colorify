@@ -15,7 +15,7 @@ var COLORS = {
 var END = '\x1b[0m';
 
 module.exports = {
-  colorit : function(text, color, highlight){
+  colorit : function(text, color){
     if(_.isNull(color) || !(_.has(COLORS, color.toUpperCase()))){
       return COLORS['DEFAULT'] + text + END
     }
