@@ -11,7 +11,7 @@
     "url": "git+https://github.com/raghu12133/node-colorify.git"
   },
   "author": "raghu12133",
-  "license": "ISC",
+  "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/raghu12133/node-colorify/issues"
   },
