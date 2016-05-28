@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "scripts": {
-    "test": "./node_modules/mocha/bin/mocha tests/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raghu12133/node-colorify.git"
