@@ -40,5 +40,8 @@ Supported list of colors:
     6. MAGENTA
     7. CYAN
     8. WHITE
-    
+
+## Releases 
+###### v1.0.0 - Initial Release
+### Contributors:
 ##### [raghu](http://twitter.com/raghu12133)
