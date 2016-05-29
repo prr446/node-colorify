@@ -2,7 +2,7 @@
   "name": "node-colorify",
   "version": "1.0.1",
   "description": "Node library to print colored texts in terminal. ",
-  "main": "./src/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,10 @@
   },
   "dependencies": {
     "underscore": "1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
   },
   "homepage": "https://github.com/raghu12133/node-colorify#readme"
 }
