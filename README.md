@@ -1,4 +1,9 @@
 # node-colorify
+
+
+[![NPM Version](http://img.shields.io/npm/v/node-colorify.svg?style=flat)](https://www.npmjs.org/package/node-colorify)
+[![NPM Downloads](https://img.shields.io/npm/dm/node-colorify.svg?style=flat)](https://www.npmjs.org/package/node-colorify)
+
 ## (color & style texts in console)
 ### A node library for printing colored and styled texts in terminal. Uses ANSI color and style codes to format the color and style printed on console. node-colorify is easy to use and supports additional text formatting.
 #
