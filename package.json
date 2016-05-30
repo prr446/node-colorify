@@ -1,6 +1,6 @@
 {
   "name": "node-colorify",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Node library to print colored texts in terminal. ",
   "main": "./lib/index.js",
   "scripts": {
@@ -22,9 +22,11 @@
     "chai": "3.5.0",
     "mocha": "2.5.3"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/raghu12133/node-colorify/LICENSE.txt"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/raghu12133/node-colorify/LICENSE.txt"
+    }
+  ],
   "homepage": "https://github.com/raghu12133/node-colorify#readme"
 }
